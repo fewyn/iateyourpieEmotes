@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: iateyourpieEmotes
+## Notes: pieSnug
+## Notes-deDE: Subscribe with Twitch Prime
+## Author: Lootman @ The Venture Co, Papp @ Azshara, Ladeon @ Argent Dawn
+## Version: v0001
+## SavedVariablesPerCharacter: Emoticons_Settings Emoticons_Eyecandy
+iateyourpieEmotes.lua
+iateyourpieEmotes.xml
