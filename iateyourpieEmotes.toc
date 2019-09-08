@@ -3,7 +3,7 @@
 ## Notes: pieSnug
 ## Notes-deDE: Subscribe with Twitch Prime
 ## Author: Fewyn @ Myzrael, Originally Based on TwitchEmotes by Lootman @ The Venture Co, Papp @ Azshara, Ladeon @ Argent Dawn
-## Version: v0001
+## Version: v0002
 ## SavedVariablesPerCharacter: Emoticons_Settings Emoticons_Eyecandy
 iateyourpieEmotes.lua
 iateyourpieEmotes.xml

@@ -92,6 +92,9 @@ local defaultpack={
 ["pieWave"]="Interface\\AddOns\\iateyourpieEmotes\\pieWave.tga:32:32",
 ["pieXy"]="Interface\\AddOns\\iateyourpieEmotes\\pieXy.tga:32:32",
 ["pieYeehaw"]="Interface\\AddOns\\iateyourpieEmotes\\pieYeehaw.tga:32:32",
+["pieHappy"]="Interface\\AddOns\\iateyourpieEmotes\\pieHappy.tga:32:32",
+["pie7"]="Interface\\AddOns\\iateyourpieEmotes\\pie7.tga:32:32",
+["pieAnime"]="Interface\\AddOns\\iateyourpieEmotes\\pieAnime.tga:32:32",
 };
 
 local emoticons={
@@ -139,6 +142,9 @@ local emoticons={
 ["pieWave"]="pieWave",
 ["pieXy"]="pieXy",
 ["pieYeehaw"]="pieYeehaw",
+["pieHappy"]="pieHappy",
+["pie7"]="pie7",
+["pieAnime"]="pieAnime",
 };
 local dropdown_options={
 
